@@ -1,5 +1,5 @@
 
-import 'StudentManagementSystem.dart';
+import 'studentManagementSystem.dart';
 void main(List<String> arguments) {
   StudentManagementSystem.main();
 }
